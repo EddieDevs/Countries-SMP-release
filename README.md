@@ -1,36 +1,29 @@
-# Velocity SMP Official Website
+# Countries SMP Sitio Oficial
 
-### Welcome to the Official Website of Velocity SMP
+### Bienvenido al sitio web oficial de Countries SMP
 
-A Minecraft server where creativity knows no bounds and adventures await around every corner! Immerse yourself in a world where imagination takes center stage and the possibilities are endless.
+¡Un servidor de Minecraft casi vanilla, 24/7, con tematica de naciones, unete, crea tu imperio, crear guerras, evitalas, comercia, etc.
 
-Embark on epic quests, build magnificent structures, or simply let your creativity run wild as you explore the vast landscapes of our server. Whether you're a seasoned builder, a daring adventurer, or just looking to make new friends, there's something for everyone on Velocity SMP.
+## Características del sitio web
 
+- Botón de copia de dirección del servidor
+- Diseño moderno
+- Inserción del servidor de Discord
+- Tarjetas de miembros del equipo
+- Tarjetas IP Bedrock y Java
+- Barra de navegación
+- Soporte móvil
+- Configuración sencilla
+- Animaciones al pasar el cursor
+- Acceso a la web de compras
+- Embed para Videos de Youtube
 
-## Features of Website
+## Cómo unirse
+Vaya al sitio web oficial, copie la IP del servidor y péguela en la pestaña unirse al servidor en Minecraft.
 
-- Server address copy button
-- Modern design
-- Discord server embed
-- Team member cards
-- Bedrock and Java IP cards
-- Navbar
-- Mobile support
-- Simple Configuration
-- Hover animations
+## Autores
+- [I_NotCool] (https://github.com/fir15playz) y [EddieOnn] ([https://github.com/fir15playz](https://github.com/EddieDevs))
 
-## How to Join
-Go to the Official website and copy the server IP and paste the server IP in the join server tab in minecraft.
-
-## Screenshots
-(W.I.P.) Screenshots will be coming soon!
-
-## Authors
-- [Im_NotCool](https://github.com/fir15playz)
-
-## Lastly...
-If you have any further question or want to help and contribute, the best ways to do this are
-- Creating an [issue report](https://github.com/FQQD/MCServer-Web-Template/issues) if you find any problems on the website
-- Join [my Discord](https://discord.gg/Nxh2zXxYJ7) and ask for help
-
-Here's a cookie for reading this far: 🍪
+## Por último...
+Si tiene alguna pregunta adicional o desea ayudar y contribuir
+- Únete a [mi Discord](https://discord.gg/37uwprb3WD) y pide ayuda
