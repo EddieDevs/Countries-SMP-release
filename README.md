@@ -22,7 +22,7 @@
 Vaya al sitio web oficial, copie la IP del servidor y péguela en la pestaña unirse al servidor en Minecraft.
 
 ## Autores
-- [I_NotCool] (https://github.com/fir15playz) y [EddieOnn] ([https://github.com/fir15playz](https://github.com/EddieDevs))
+- [Im_NotCool] (https://github.com/fir15playz) y [EddieOnn] ([https://github.com/fir15playz](https://github.com/EddieDevs))
 
 ## Por último...
 Si tiene alguna pregunta adicional o desea ayudar y contribuir
